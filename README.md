@@ -1,4 +1,4 @@
-<h1 align="center"><img src="PythonAutomationLogo.png" width="100px"> </h1>
+<h1 align="center"><img src="WebScrappingLogo.png" width="100px"> </h1>
 <h1 align="center">Web Scraping - Python Automations</h1>
 <h3 align="center">Mayobanex Santana</h3>
 
